@@ -2,7 +2,6 @@ import torchaudio
 from audiocraft.models import MusicGen
 from transformers import get_scheduler
 import torch
-import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader
 from torch.optim import AdamW
